@@ -1,0 +1,43 @@
+Received: from in02.filter.mail.rninc.net (63.101.50.84) by
+ mail.shinetechchina.com (10.10.10.14) with Microsoft SMTP Server id
+ 8.1.436.0; Mon, 17 Jan 2011 15:46:41 +0800
+Received: from us01.mail.rninc.net (us01.mail.rninc.net [63.101.50.17])	by
+ in02.filter.mail.rninc.net (8.12.11/8.12.11/infilter) with ESMTP id
+ p0H7kbxH006615	for <d-gairy@shinetechchina.com>; Mon, 17 Jan 2011 01:46:38
+ -0600
+Received: from m13-57.163.com (m13-57.163.com [220.181.13.57])	by
+ us01.mail.rninc.net (8.12.11/8.12.11/mx) with ESMTP id p0H7kKFl020199	for
+ <d-gairy@shinetechchina.com>; Mon, 17 Jan 2011 01:46:32 -0600
+Received: from lovesesame ( [123.124.143.254] ) by ajax-webmail-wmsvr57
+ (Coremail) ; Mon, 17 Jan 2011 15:46:16 +0800 (CST)
+Date: Mon, 17 Jan 2011 15:46:16 +0800
+From: lovesesame <lovesesame@163.com>
+To: <d-gairy@shinetechchina.com>
+Message-ID: <2a467369.2996.12d92f04717.Coremail.lovesesame@163.com>
+Subject: Test
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_Part_28472_174040697.1295250376471"
+X-Originating-IP: [123.124.143.254]
+X-Priority: 3
+X-Mailer: Coremail Webmail Server Version SP_ntes V3.5 build
+ 101227(12597.3587.3569) Copyright (c) 2002-2011 www.mailtech.cn 163com
+X-CM-CTRLDATA: I9L7F2Zvb3Rlcl9odG09NjA6ODE=
+X-CM-TRANSID: OcGowKDLm+7J8zNN8DkAAA--.15W
+X-CM-SenderInfo: 5oryv25hvdzvi6rwjhhfrp/1tbiFgPJeD-6XWbOZAAAsw
+X-Coremail-Antispam: 1U5529EdanIXcx71UUUUU7vcSsGvfC2KfnxnUU==
+X-Reliable-Filter-System-HostMessageHistory: Message logged for 220.181.13.57
+X-Reliable-Filter-Util-CheckReturnPath: OK Return-Path and From Match .163.com .163.com
+Received-SPF: Fail (Exchange2007.shinetechchina.com: domain of
+ lovesesame@163.com does not designate 63.101.50.84 as permitted sender)
+ receiver=Exchange2007.shinetechchina.com; client-ip=63.101.50.84;
+ helo=in02.filter.mail.rninc.net;
+Received-SPF: pass (shuni.reliablenetworks.net: domain of lovesesame@163.com designates 220.181.13.57 as permitted sender)
+X-Reliable-Filter-Util-SenderPolicyFramework: OK - 220.181.13.57 is allowed to send mail from lovesesame@163.com
+Return-Path: lovesesame@163.com
+X-MS-Exchange-Organization-PRD: 163.com
+X-MS-Exchange-Organization-SenderIdResult: Fail
+X-MS-Exchange-Organization-SCL: 2
+X-MS-Exchange-Organization-PCL: 2
+X-MS-Exchange-Organization-Antispam-Report:
+ DV:3.3.7405.660;SID:SenderIDStatus Fail;OrigIP:63.101.50.84
